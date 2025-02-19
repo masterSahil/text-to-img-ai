@@ -1,0 +1,9 @@
+body{
+    background: url('../src/assets/img/bg.webp');
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    max-width: -webkit-fill-available;
+    margin: 0;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
